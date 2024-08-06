@@ -1,0 +1,20 @@
+.cards img {
+  width: 150px;
+  object-fit: cover;
+  height: 114px;
+}
+.cards  {
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap-reverse;
+
+  align-items: center;
+  height: 305px;
+  width: 200px;
+
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  padding: 20px;
+  border: 1px solid rgb(230, 230, 230);
+
+}

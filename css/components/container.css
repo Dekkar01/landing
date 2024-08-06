@@ -1,0 +1,27 @@
+.container {
+  width: 900px;
+  margin: auto;
+
+}
+
+.container a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 16px 36px;
+  background-color: #1EDD88;
+  border-radius: 30px;
+  color: white;
+
+}
+
+.container a:hover {
+  background-color: #1bb972;
+  border: 1px solid #11623d;
+}
+
+
+.container p {
+  font-size: 20px;
+  line-height: 1.4;
+  opacity: .7;
+}
